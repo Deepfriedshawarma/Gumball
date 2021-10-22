@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    font-style: italic;
+    color: black;
+    background-color: yellow;
+}
+
+div#sales {
+    color: #0e8030;
+}
